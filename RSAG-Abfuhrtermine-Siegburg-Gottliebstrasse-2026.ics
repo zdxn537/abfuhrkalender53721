@@ -1,0 +1,586 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rsag.de//RSAG AöR 2026//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6d2714423551@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6de472368397@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6e2131001300@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6e5720882388@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Papiertonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nPapiertonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6e7924956130@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Wertstofftonne oder -sack 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nWertstofftonne oder -sack 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6ea684793038@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6ec974481052@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6ee773554949@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6f1036888608@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6f4506355938@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6f6434127565@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6f8196243786@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6fb371441688@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d6fe878769851@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d701049686105@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Papiertonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nPapiertonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d703305486112@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Wertstofftonne oder -sack 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nWertstofftonne oder -sack 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d706598296151@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d708644823787@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d70b613157468@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d70d964390259@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d70f281418924@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d712475727961@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d714469263462@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d716664537231@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d719587654027@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d71b678533084@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Papiertonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nPapiertonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d71e270926046@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Wertstofftonne oder -sack 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nWertstofftonne oder -sack 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d720357140979@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d723349354003@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Restmülltonne 4-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nRestmülltonne 4-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d725512017095@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d727562641958@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne Regelabfuhr
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne Regelabfuhr\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d72a031007061@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261013T001000
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261013T181749Z
+LAST-MODIFIED:20261013T001000
+SUMMARY:Biotonne 2-wö.
+DESCRIPTION:RSAG Abfuhrtermin:\nBiotonne 2-wö.\n\nBitte beachten Sie\, dass sich die Leerungstage ändern können.\nDa wir unsere Touren regelmäßig optimieren und anpassen\, sollten Sie Ihren persönlichen Abfuhrkalender von Zeit zu Zeit aktualisieren.\n\nwww.rsag.de
+LOCATION:Gottliebstraße\, 53721 Siegburg
+TRANSP:TRANSPARENT
+UID:6ace75cd5d72c788799768@rsag.de
+BEGIN:VALARM
+TRIGGER:-PT7H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
